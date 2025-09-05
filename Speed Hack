@@ -1,0 +1,4 @@
+{
+  "ScanAoB": "40 02 2B 07 3D 02 2B 07 3D 02 2B 07 3D 00 00 00",  // Original
+  "ReplaceAoB": "40 02 2B 9B 3C 02 2B 9B 3C 02 2B 07 3D 00 00 00" // Speed Hack ON
+}
